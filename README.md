@@ -1,6 +1,8 @@
 
 
-[video(video-F3vDRwf7-1780304298339)(type-csdn)(url-https://live.csdn.net/v/embed/529172)(image-https://i-blog.csdnimg.cn/direct/1ac33ba7a7614f5fa10ccb6fa99d7640.png)(title-万字文档源码基于springboot与vue漫画天堂网)]
+# 资料获取  点击  [**《万字文档源码基于springboot与vue漫画天堂网》资料**](https://nwqbsc0rm1n.feishu.cn/docx/QnFZdiPRloKSzwxY7hdc6MLUnlb)
+
+
 ## 一、项目概述
 
 漫画天堂网系统是一套面向漫画爱好者与平台管理员的综合性漫画运营管理平台，聚焦于解决漫画资源展示、用户交互、平台管控等核心需求，通过分层设计与前后端分离架构，实现了用户端便捷的漫画浏览订阅体验，以及管理员端高效的全维度系统管控能力。
